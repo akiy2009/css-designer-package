@@ -15,7 +15,7 @@
     "a11y"
   ],
   "author": "akiy2009",
-  "license": "MIT",
+  "license": "Apache",
   "dependencies": {
     "postcss": "^8.4.38"
   },
